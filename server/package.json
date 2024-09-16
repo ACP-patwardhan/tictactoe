@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe-server",
+  "version": "1.0.0",
+  "description": "server for the tic tac toe websocket app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
