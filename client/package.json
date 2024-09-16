@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe-client",
+  "version": "1.0.0",
+  "description": "client for the tic tac toe websocket app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./index.js"
+  },
+  "author": "abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
